@@ -1,0 +1,54 @@
+.jobs-container {
+  background-color: black;
+}
+.jobs-inner-container {
+  display: flex;
+  flex-direction: row;
+  padding: 45px;
+}
+.horizontal-line {
+  margin-top: 20px;
+  color: white;
+}
+.type-of-employment-heading {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+.checkbox {
+  height: 15px;
+  width: 15px;
+  border: none;
+}
+.label-2 {
+  font-size: 18px;
+  color: white;
+  font-weight: 400;
+  margin-left: 15px;
+}
+.each-employment-item {
+  margin-bottom: 10px;
+}
+.jobs-side-container {
+  margin-right: 90px;
+  width: 300px;
+}
+.input-box-search {
+  background-color: transparent;
+  border: none;
+  width: 200px;
+  color: white;
+  outline: none;
+}
+.search-container {
+  border-style: solid;
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 20px;
+  height: 35px;
+  border-width: 1px;
+  border-color: #64748b;
+  margin-left:40px;
+}

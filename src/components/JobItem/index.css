@@ -1,0 +1,54 @@
+.each-job {
+  background-color: #272727;
+  padding: 20px;
+  min-width: 700px;
+  flex-grow: 1;
+  max-width: 900px;
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 15px;
+  font-family: 'Roboto';
+  color: white;
+}
+.company-logo {
+  height: 85px;
+  width: 85px;
+  margin-top: 0px;
+  margin-right: 20px;
+}
+.each-job-top-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.each-job-inner-top-container {
+  display: flex;
+  flex-direction: column;
+}
+.ratings-container {
+  display: flex;
+  align-items: center;
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-right: 10px;
+}
+.each-job-heading {
+  font-size: 24px;
+}
+.star {
+  color: yellow;
+  margin-right: 10px;
+}
+.each-job-top-down-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.location-type-container {
+  display: flex;
+  align-items: center;
+}
+.link {
+  text-decoration: none;
+}

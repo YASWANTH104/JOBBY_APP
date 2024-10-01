@@ -1,0 +1,88 @@
+.final-container {
+  background-color: black;
+}
+.final-bottom-container {
+  margin: 40px;
+  padding: 20px;
+  border-style: solid;
+  border-width: 0px;
+  background-color: #272727;
+  color: white;
+  font-family: 'Roboto';
+  border-radius: 20px;
+}
+.final-heading {
+  font-size: 28px;
+}
+.final-para {
+  font-size: 18px;
+}
+.final-bottom-top-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.final-heading-top-down-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.final-bottom-top-1-container {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+.final-logo-image {
+  margin-right: 20px;
+}
+.final-bottom-top-2-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.iconss {
+  margin-right: 10px;
+}
+.final-bottom-top-3-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 350px;
+  margin: 20px;
+}
+.inner-top-3-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.skills-image {
+  margin-right: 10px;
+}
+.final-top-4-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.life-image {
+  height: 200px;
+  width: 400px;
+}
+.final-para-3 {
+  width: 600px;
+}
+.final-heading-2 {
+  color: white;
+  font-family: 'Roboto';
+  margin-left: 40px;
+}
+.similar-jobs-items-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

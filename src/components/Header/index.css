@@ -1,0 +1,30 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #202020;
+  padding: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.routes-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: 'Roboto';
+  color: white;
+}
+.route-items {
+  text-decoration: none;
+  margin-right: 50px;
+  color: white;
+}
+.logout-button {
+  background-color: #6366f1;
+  color: white;
+  border-width: 0px;
+  padding: 10px;
+  border-radius: 10px;
+  width: 100px;
+}
